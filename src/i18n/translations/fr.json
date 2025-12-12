@@ -1,0 +1,137 @@
+{
+  "app": {
+    "title": "Quête des Dattes",
+    "tagline": "Apprenez les variétés de dattes de manière amusante!"
+  },
+  "splash": {
+    "start": "Commencer",
+    "loading": "Chargement..."
+  },
+  "onboarding": {
+    "slide1": {
+      "title": "Bienvenue dans Quête des Dattes!",
+      "description": "Apprenez les variétés de dattes de manière amusante!"
+    },
+    "slide2": {
+      "title": "Différents Types de Jeux",
+      "description": "Association, mémoire, devinettes et arrangement - de nombreux jeux vous attendent!"
+    },
+    "slide3": {
+      "title": "Apprenez avec Votre Ami Datte",
+      "description": "Notre petit ami vous guidera dans votre parcours éducatif"
+    },
+    "start": "Commencer",
+    "skip": "Passer",
+    "next": "Suivant"
+  },
+  "home": {
+    "title": "Quête des Dattes",
+    "startGame": "Commencer",
+    "levels": "Niveaux",
+    "encyclopedia": "Encyclopédie",
+    "profile": "Profil",
+    "settings": "Paramètres"
+  },
+  "levels": {
+    "title": "Niveaux",
+    "locked": "Verrouillé",
+    "unlocked": "Déverrouillé",
+    "completed": "Terminé",
+    "progress": "Progrès",
+    "categories": {
+      "matching": "Association",
+      "memory": "Mémoire",
+      "guess": "Deviner",
+      "arrange": "Arranger"
+    }
+  },
+  "game": {
+    "matching": {
+      "title": "Jeu d'Association",
+      "instruction": "Faites glisser les images pour associer les noms de dattes"
+    },
+    "memory": {
+      "title": "Jeu de Mémoire",
+      "instruction": "Retournez les cartes et associez les paires"
+    },
+    "guess": {
+      "title": "Devinez la Datte",
+      "instruction": "Choisissez la bonne réponse"
+    },
+    "arrange": {
+      "title": "Organisez les Étapes",
+      "instruction": "Organisez les étapes dans le bon ordre"
+    },
+    "score": "Score",
+    "time": "Temps",
+    "moves": "Coups",
+    "pause": "Pause",
+    "resume": "Reprendre",
+    "quit": "Quitter"
+  },
+  "result": {
+    "win": {
+      "title": "Bravo!",
+      "message": "Vous avez appris une nouvelle variété de dattes!",
+      "perfect": "Parfait!",
+      "excellent": "Excellent!",
+      "good": "Bien!"
+    },
+    "lose": {
+      "title": "Réessayer",
+      "message": "N'abandonnez pas! Vous pouvez le faire!",
+      "tryAgain": "Réessayer"
+    },
+    "next": "Suivant",
+    "retry": "Réessayer",
+    "home": "Accueil",
+    "stars": "Étoiles"
+  },
+  "encyclopedia": {
+    "title": "Encyclopédie des Dattes",
+    "search": "Rechercher une variété...",
+    "origin": "Origine",
+    "taste": "Goût",
+    "uses": "Utilisations",
+    "nutrition": "Nutrition",
+    "varieties": "Variétés"
+  },
+  "profile": {
+    "title": "Profil",
+    "level": "Niveau",
+    "xp": "XP",
+    "coins": "Pièces",
+    "achievements": "Succès",
+    "rank": "Rang",
+    "stats": "Statistiques",
+    "gamesPlayed": "Jeux Joués",
+    "accuracy": "Précision",
+    "bestScore": "Meilleur Score"
+  },
+  "settings": {
+    "title": "Paramètres",
+    "language": "Langue",
+    "languages": {
+      "ar": "العربية",
+      "en": "English",
+      "fr": "Français"
+    },
+    "sound": "Son",
+    "music": "Musique",
+    "sfx": "Effets Sonores",
+    "notifications": "Notifications",
+    "darkMode": "Mode Sombre",
+    "about": "À Propos",
+    "privacy": "Politique de Confidentialité",
+    "version": "Version"
+  },
+  "common": {
+    "ok": "OK",
+    "cancel": "Annuler",
+    "back": "Retour",
+    "continue": "Continuer",
+    "loading": "Chargement...",
+    "error": "Une erreur s'est produite",
+    "confirm": "Confirmer"
+  }
+}

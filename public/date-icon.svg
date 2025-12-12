@@ -1,0 +1,15 @@
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="dateGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#8B4513;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#6B3410;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <ellipse cx="32" cy="40" rx="17" ry="20" fill="url(#dateGrad)" />
+  <ellipse cx="32" cy="16" rx="4" ry="6" fill="#4A7C59" />
+  <path d="M 32 10 Q 28 6, 26 4 M 32 10 Q 36 6, 38 4 M 32 10 Q 30 4, 28 2 M 32 10 Q 34 4, 36 2" 
+        stroke="#5B8C6B" stroke-width="1.5" fill="none" stroke-linecap="round" />
+  <ellipse cx="26" cy="36" rx="2" ry="3" fill="#3E2723" />
+  <ellipse cx="38" cy="36" rx="2" ry="3" fill="#3E2723" />
+  <path d="M 26 44 Q 32 48, 38 44" stroke="#3E2723" stroke-width="2" fill="none" stroke-linecap="round" />
+</svg>

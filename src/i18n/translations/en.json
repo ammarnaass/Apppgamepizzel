@@ -1,0 +1,137 @@
+{
+  "app": {
+    "title": "Date Quest",
+    "tagline": "Learn about date varieties in a fun way!"
+  },
+  "splash": {
+    "start": "Start",
+    "loading": "Loading..."
+  },
+  "onboarding": {
+    "slide1": {
+      "title": "Welcome to Date Quest!",
+      "description": "Learn about date varieties in a fun way!"
+    },
+    "slide2": {
+      "title": "Various Game Types",
+      "description": "Matching, memory, guessing, and arranging - many games await you!"
+    },
+    "slide3": {
+      "title": "Learn with Your Date Friend",
+      "description": "Our little friend will guide you on your educational journey"
+    },
+    "start": "Start Now",
+    "skip": "Skip",
+    "next": "Next"
+  },
+  "home": {
+    "title": "Date Quest",
+    "startGame": "Start Game",
+    "levels": "Levels",
+    "encyclopedia": "Date Encyclopedia",
+    "profile": "Profile",
+    "settings": "Settings"
+  },
+  "levels": {
+    "title": "Levels",
+    "locked": "Locked",
+    "unlocked": "Unlocked",
+    "completed": "Completed",
+    "progress": "Progress",
+    "categories": {
+      "matching": "Matching",
+      "memory": "Memory",
+      "guess": "Guess",
+      "arrange": "Arrange"
+    }
+  },
+  "game": {
+    "matching": {
+      "title": "Matching Game",
+      "instruction": "Drag images to match date names"
+    },
+    "memory": {
+      "title": "Memory Game",
+      "instruction": "Flip cards and match pairs"
+    },
+    "guess": {
+      "title": "Guess the Date",
+      "instruction": "Choose the correct answer"
+    },
+    "arrange": {
+      "title": "Arrange Production Steps",
+      "instruction": "Arrange steps in correct order"
+    },
+    "score": "Score",
+    "time": "Time",
+    "moves": "Moves",
+    "pause": "Pause",
+    "resume": "Resume",
+    "quit": "Quit"
+  },
+  "result": {
+    "win": {
+      "title": "Well Done!",
+      "message": "You've learned a new date variety!",
+      "perfect": "Perfect!",
+      "excellent": "Excellent!",
+      "good": "Good!"
+    },
+    "lose": {
+      "title": "Try Again",
+      "message": "Don't give up! You can do it!",
+      "tryAgain": "Try Again"
+    },
+    "next": "Next",
+    "retry": "Retry",
+    "home": "Home",
+    "stars": "Stars"
+  },
+  "encyclopedia": {
+    "title": "Date Encyclopedia",
+    "search": "Search for date variety...",
+    "origin": "Origin",
+    "taste": "Taste",
+    "uses": "Uses",
+    "nutrition": "Nutrition",
+    "varieties": "Varieties"
+  },
+  "profile": {
+    "title": "Profile",
+    "level": "Level",
+    "xp": "XP",
+    "coins": "Coins",
+    "achievements": "Achievements",
+    "rank": "Rank",
+    "stats": "Statistics",
+    "gamesPlayed": "Games Played",
+    "accuracy": "Accuracy",
+    "bestScore": "Best Score"
+  },
+  "settings": {
+    "title": "Settings",
+    "language": "Language",
+    "languages": {
+      "ar": "العربية",
+      "en": "English",
+      "fr": "Français"
+    },
+    "sound": "Sound",
+    "music": "Music",
+    "sfx": "Sound Effects",
+    "notifications": "Notifications",
+    "darkMode": "Dark Mode",
+    "about": "About",
+    "privacy": "Privacy Policy",
+    "version": "Version"
+  },
+  "common": {
+    "ok": "OK",
+    "cancel": "Cancel",
+    "back": "Back",
+    "continue": "Continue",
+    "loading": "Loading...",
+    "error": "An error occurred",
+    "confirm": "Confirm"
+  }
+}
